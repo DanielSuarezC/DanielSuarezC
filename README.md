@@ -1,7 +1,8 @@
+# 👋 Hola, soy Daniel Suárez
 <p align="center">
   <img src="./banner.jpg" alt="Daniel David Suarez Caldera - Fullstack Engineer & AI Engineering" width="100%">
 </p>
-# 👋 Hola, soy Daniel Suárez
+
 
 ### 💻 Full Stack Developer | AI Engineering
 
