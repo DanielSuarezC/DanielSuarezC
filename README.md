@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Daniel David Suarez Caldera - Fullstack Engineer & AI Engineering" width="100%">
+  <img src="./banner.jpg" alt="Daniel David Suarez Caldera - Fullstack Engineer & AI Engineering" width="100%">
 </p>
 # 👋 Hola, soy Daniel Suárez
 
