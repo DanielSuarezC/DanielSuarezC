@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Daniel David Suarez Caldera - Fullstack Engineer & AI Engineering" width="100%">
+</p>
 # 👋 Hola, soy Daniel Suárez
 
-### 💻 Ingeniero de Sistemas | Full Stack Developer
+### 💻 Full Stack Developer | AI Engineering
 
 Construyo soluciones de software combinando **desarrollo web, backend, bases de datos, automatización, inteligencia artificial e integración con hardware**.
 
@@ -43,12 +46,29 @@ Actualmente estoy enfocado en seguir evolucionando como desarrollador **Full Sta
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 
-### Bases de datos
+### 🗄️ Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
+**Experiencia:** Diseño de bases de datos relacionales, modelado de datos, consultas SQL, relaciones, CRUD, migraciones, ORM y conexión con aplicaciones backend.
+
+### 🤖 AI Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+- 🐍 Python para desarrollo de soluciones de IA
+- ⚡ FastAPI para construcción de APIs y servicios de IA
+- 🧠 RAG (Retrieval-Augmented Generation)
+- 🔄 Orquestación de agentes y flujos de IA
+- 🤖 Integración de modelos de lenguaje (LLMs)
+- 🛠️ Claude Code para desarrollo asistido por IA
+- 🔗 Integración de servicios y herramientas mediante APIs
 ### Herramientas y tecnologías
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -186,25 +206,6 @@ Me interesa especialmente trabajar en proyectos donde la tecnología pueda mejor
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielSuarezC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSuarezC&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielSuarezC&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
