@@ -54,7 +54,6 @@ Actualmente estoy enfocado en seguir evolucionando como desarrollador **Full Sta
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-**Experiencia:** Diseño de bases de datos relacionales, modelado de datos, consultas SQL, relaciones, CRUD, migraciones, ORM y conexión con aplicaciones backend.
 
 ### 🤖 AI Engineering
 
@@ -63,13 +62,6 @@ Actualmente estoy enfocado en seguir evolucionando como desarrollador **Full Sta
 ![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-- 🐍 Python para desarrollo de soluciones de IA
-- ⚡ FastAPI para construcción de APIs y servicios de IA
-- 🧠 RAG (Retrieval-Augmented Generation)
-- 🔄 Orquestación de agentes y flujos de IA
-- 🤖 Integración de modelos de lenguaje (LLMs)
-- 🛠️ Claude Code para desarrollo asistido por IA
-- 🔗 Integración de servicios y herramientas mediante APIs
 ### Herramientas y tecnologías
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
